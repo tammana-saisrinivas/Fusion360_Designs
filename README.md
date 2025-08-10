@@ -6,4 +6,4 @@ This repository showcases my self-created 3D models in Fusion 360, built for pra
 ## 🏗️ Models
 ### 1. Crane Stress Analysis
 - **📷 Final Result Media:**
-- ![StressImage](3d - Aircraft Hangar - Fusion 360.png)
+- ![StressImage](https://github.com/tammana-saisrinivas/Fusion360_Designs/raw/main/3d%20-%20Aircraft%20Hangar%20-%20Fusion%20360.png)
